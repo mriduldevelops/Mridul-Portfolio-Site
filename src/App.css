@@ -16,7 +16,7 @@ body {
   position: relative;
 }
 
-body::-webkit-scrollbar{
+body::-webkit-scrollbar {
   display: none;
 }
 
@@ -53,6 +53,7 @@ h1 {
   height: 50px;
   border-radius: 50%;
   margin-right: 15px;
+  border: 2px solid #19756371;
 }
 
 .name {
@@ -143,6 +144,7 @@ button {
   text-align: left;
   font-size: 18px;
   letter-spacing: 1px;
+  color: #575757;
 }
 
 .about button {
@@ -202,29 +204,31 @@ button {
   border-radius: 12px;
 }
 
-.project>.left{
+.project>.left {
   width: 40%;
 }
-.project>.left>img{
+
+.project>.left>img {
   margin-top: 15px;
   height: 90%;
 }
 
-.project>.right{
+.project>.right {
   text-align: left;
   width: 60%;
   padding: 20px 120px;
   padding-right: 30px;
 }
 
-.project>.right>h2{
+.project>.right>h2 {
   margin-bottom: 20px;
 }
 
-.project button{
+.project button {
   margin: 20px 40px;
   margin-left: 0;
 }
+
 /* contact */
 
 .contact {
@@ -274,9 +278,11 @@ textarea {
   color: white;
   transition: all .3s ease-out;
 }
-.footer a:hover{
+
+.footer a:hover {
   color: #197563;
 }
+
 .footer>.top>.right>a {
   font-size: 29px;
   margin: 0 10px;

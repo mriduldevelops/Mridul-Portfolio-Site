@@ -21,7 +21,7 @@ export default function Project() {
             <a href="https://github.com/mriduldevelops/Note-Keeper" target='_blank'>
             <button>VIEW CODE</button>
             </a>
-            <a href="https://github.com/mriduldevelops/Note-Keeper" target='_blank'>
+            <a href="https://mriduldevelops.github.io/Note-Keeper/" target='_blank'>
             <button>VISIT SITE</button>
             </a>
         </div>
