@@ -266,6 +266,11 @@ textarea {
   color: #232323;
 }
 
+.form button{
+  width: 100%;
+  margin: auto;
+}
+
 /* footer */
 
 .footer {
