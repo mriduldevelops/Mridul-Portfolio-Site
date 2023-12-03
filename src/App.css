@@ -21,7 +21,7 @@ span {
   color: #197563;
 }
 
-button:hover{
+button:hover {
   background-color: #0e4136;
 }
 
@@ -269,7 +269,7 @@ textarea {
   color: #232323;
 }
 
-.form button{
+.form button {
   width: 100%;
   margin: auto;
 }
