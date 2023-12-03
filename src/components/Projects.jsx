@@ -2,7 +2,7 @@ import Project from "./Project";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import noteKeeper from "../assets/note-Keeper.png";
+import noteKeeper from "../assets/note-keeper.png";
 import mcAfee from "../assets/mcAfee.png";
 import sankeGame from "../assets/game.png";
 import codingShuttle from "../assets/coding-shuttle.png";
