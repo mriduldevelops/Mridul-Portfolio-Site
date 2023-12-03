@@ -13,16 +13,16 @@ export default function Footer() {
         <div className="right">
           <h2>FOLLOW ME</h2>
           <a href="https://www.linkedin.com/in/mridul-sharma-90a823262/" target="_blank">
-            <i class="fa-brands fa-linkedin"></i>
+            <i className="fa-brands fa-linkedin"></i>
           </a>
           <a href="https://github.com/mriduldevelops" target="_blank">
-            <i class="fa-brands fa-github"></i>
+            <i className="fa-brands fa-github"></i>
           </a>
           <a href="https://www.instagram.com/the_mridul_sharma/" target="_blank">
-            <i class="fa-brands fa-instagram"></i>
+            <i className="fa-brands fa-instagram"></i>
           </a>
           <a href="https://twitter.com/mriduldevelops" target="_blank">
-            <i class="fa-brands fa-twitter"></i>
+            <i className="fa-brands fa-twitter"></i>
           </a>
         </div>
       </div>

@@ -1,6 +1,6 @@
 import profile from '../assets/profile.jfif';
-
 export default function Header() {
+
   return (
     <div>
         <nav>

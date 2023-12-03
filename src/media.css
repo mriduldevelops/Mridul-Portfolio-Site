@@ -69,6 +69,7 @@
     }
 
     .about>div>.right>img {
+        margin-top: 0;
         width: 70%;
     }
 
@@ -106,14 +107,16 @@
     }
 
     .project {
-        margin: 30px 0;
+        margin: 30px 7px;
         padding: 30px;
-        height: 700px;
+        height: 520px;
         flex-direction: column;
     }
 
     .project>.left {
-        width: 100%;
+        margin: 0 auto;
+        height: 200px;
+        width: fit-content;
     }
 
     .project>.left>img {
@@ -130,6 +133,7 @@
 
     .project>.right>h2 {
         margin: 20px;
+        text-align: center;
     }
 
     .project button {
@@ -166,7 +170,7 @@
     /* footer */
 
     .footer {
-        padding: 100px 30px 20px;
+        padding: 60px 30px 20px;
     }
 
     .footer>.top {

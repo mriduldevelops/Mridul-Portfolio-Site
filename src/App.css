@@ -16,12 +16,13 @@ body {
   position: relative;
 }
 
-body::-webkit-scrollbar {
-  display: none;
-}
 
 span {
   color: #197563;
+}
+
+button:hover{
+  background-color: #0e4136;
 }
 
 /* header */
@@ -141,6 +142,7 @@ button {
 }
 
 .about>div>.left {
+  margin-right: 30px;
   text-align: left;
   font-size: 18px;
   letter-spacing: 1px;
@@ -152,6 +154,7 @@ button {
 }
 
 .about>div>.right>img {
+  margin-top: 30px;
   height: 70%;
 }
 
@@ -195,7 +198,7 @@ button {
 }
 
 .project {
-  margin: 30px 0;
+  margin: 30px 30px;
   padding: 30px;
   display: flex;
   height: 360px;
@@ -209,14 +212,14 @@ button {
 }
 
 .project>.left>img {
-  margin-top: 15px;
+  margin: 15px auto;
   height: 90%;
 }
 
 .project>.right {
   text-align: left;
   width: 60%;
-  padding: 20px 120px;
+  padding: 40px 120px;
   padding-right: 30px;
 }
 
@@ -225,7 +228,7 @@ button {
 }
 
 .project button {
-  margin: 20px 40px;
+  margin: 40px;
   margin-left: 0;
 }
 
