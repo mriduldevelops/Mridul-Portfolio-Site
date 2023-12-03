@@ -2,7 +2,6 @@ import Project from "./Project";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import noteKeeper from "../assets/note-Keeper.png";
 import mcAfee from "../assets/mcAfee.png";
 import sankeGame from "../assets/game.png";
 import codingShuttle from "../assets/coding-shuttle.png";
@@ -10,7 +9,7 @@ import codingShuttle from "../assets/coding-shuttle.png";
 const projectList = [
   {
     projectName: "NOTE KEEPER",
-    img: noteKeeper,
+    img: "https://drive.google.com/file/d/1CQDase7Nlbcv8AHAKMQgu86MIjhjrZ-H/view?usp=drive_link",
     githubLink: "https://github.com/mriduldevelops/Note-Keeper",
     siteLink: "https://mriduldevelops.github.io/Note-Keeper/",
     projectInfo: [
