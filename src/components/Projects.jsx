@@ -6,8 +6,19 @@ import noteKeeper from "../assets/note-keeper.png";
 import mcAfee from "../assets/mcAfee.png";
 import sankeGame from "../assets/game.png";
 import codingShuttle from "../assets/coding-shuttle.png";
-
+import joblele from "../assets/joblele.png";
 const projectList = [
+  {
+    projectName: "JOBLELE",
+    img: joblele,
+    githubLink: "https://github.com/mriduldevelops/JOBLELE",
+    siteLink: "https://mriduldevelops.github.io/JOBLELE/",
+    projectInfo: [
+      "A job portal site which allows you to post jobs and apply for these available jobs.",
+      "Relatime Updates and Customized Job listings",
+      "Reactjs, Tailwind CSS, Javascript, Firebase and Firestore",
+    ],
+  },
   {
     projectName: "NOTE KEEPER",
     img: noteKeeper,
