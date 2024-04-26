@@ -12,7 +12,7 @@ export default function Hero() {
       </div>
       <div className="hero__buttons">
         <a
-          href="https://drive.google.com/file/d/1OB2PNR09rDBMHP9nGqmlYeWWB1mLrnD7/view?usp=sharing"
+          href="https://drive.google.com/file/d/1C4S7tJWx-DSU130LVQcBLxqCshAeQgac/view?usp=drive_link"
           target="_blank"
         >
           <button>RESUME</button>

@@ -7,6 +7,7 @@ import mcAfee from "../assets/mcAfee.png";
 import sankeGame from "../assets/game.png";
 import codingShuttle from "../assets/coding-shuttle.png";
 import joblele from "../assets/joblele.png";
+import urbanTrendz from "../assets/urban-trendz.png";
 const projectList = [
   {
     projectName: "JOBLELE",
@@ -17,6 +18,16 @@ const projectList = [
       "A job portal site which allows you to post jobs and apply for these available jobs.",
       "Relatime Updates and Customized Job listings",
       "Reactjs, Tailwind CSS, Javascript, Firebase and Firestore",
+    ],
+  },
+  {
+    projectName: "UrbanTrendz",
+    img: urbanTrendz,
+    githubLink: "https://github.com/mriduldevelops/Urban-Trendz",
+    siteLink: "https://urban-trendz.vercel.app/",
+    projectInfo: [
+      "An E-Shop, you can add items to cart and make secure payments",
+      "Next.js, Sanity, Stripe, Shadcn, Tailwind CSS",
     ],
   },
   {
